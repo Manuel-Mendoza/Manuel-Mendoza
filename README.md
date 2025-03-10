@@ -2,7 +2,7 @@
  
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🛠️ Technologies and Tools  
 
 ### Backend  
 <div>
@@ -24,9 +24,7 @@
 
 ### 📫 Conéctate conmigo  
 - 🌎 [Mi página web](https://github.com/Manuel-Mendoza)  
-- 📧 [Correo](mailto:tuemail@example.com)  
+- 📧 [Correo](mailto:developermanuel@icloud.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/manuel-mendoza)  
 
 ---
-
-¡Siéntete libre de modificarlo y personalizarlo a tu gusto! Si quieres agregar imágenes, gráficos adicionales o animaciones, dime y lo ajustamos. 🚀
