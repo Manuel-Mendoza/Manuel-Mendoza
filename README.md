@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="[https://media.giphy.com/media/3o6Zt9NJSOs49h25ny/giphy.gif](https://giphy.com/stickers/mitteldeutschezeitung-rocket-rakete-startnow-XGVQmEcg9cR5WycSG0)" width="50" />I'm, soy Manuel 👋</h1>
+<h1 align="center"> <img src="https://giphy.com/stickers/mitteldeutschezeitung-rocket-rakete-startnow-XGVQmEcg9cR5WycSG0" width="50" />I'm, soy Manuel 👋</h1>
  
 ---
 
