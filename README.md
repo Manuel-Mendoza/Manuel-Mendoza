@@ -1,11 +1,5 @@
-<h1 align="center">Hola, soy Manuel Mendoza 👋</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Mendoza&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🚀 Sobre mí  
-Soy un desarrollador con experiencia en el desarrollo de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar continuamente mis habilidades 
+<h1 align="center">I'm, soy Manuel 👋</h1>
+ 
 ---
 
 ## 🛠️ Tecnologías y Herramientas  
