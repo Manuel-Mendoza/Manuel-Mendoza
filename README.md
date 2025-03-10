@@ -1,51 +1,36 @@
-![snake gif](https://github.com/Manuel-Menoza/Manuel-Mendoza/blob/output/github-contribution-grid-snake.svg)
-# ¡Hola! 👋 Soy [Manuel]
+<h1 align="center">Hola, soy Manuel Mendoza 👋</h1>
 
-🔹 Desarrollador Web | 🚀 Apasionado por la tecnología | 💡 Siempre aprendiendo  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Mendoza&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 🚀 Sobre mí  
+Soy un desarrollador con experiencia en el desarrollo de aplicaciones web. Me encanta aprender nuevas tecnologías y mejorar continuamente mis habilidades.  
 
-### ⚙️ Backend  
-- 🛠️ Trabajo con **Django, Flask, FastApi** 
-- 🗄️ Bases de datos: **PostgreSQL**  
-- 🔗 APIs con **Django REST Framework y FastAPI**  
+### 🛠 Tecnologías que uso  
 
-### 🎨 Frontend  
-- ⚡ Desarrollo con **React, Astro y Vite** 
-- 💎 Estilos con **Tailwind CSS**  
+#### 🌐 Frontend  
+- Astro  
+- Vite  
+- HTMX  
+- Alpine.js  
+- Tailwind CSS  
 
+#### 🖥 Backend  
+- Django  
+- FastAPI  
+- Flask  
 
-- 📚 Actualmente aprendiendo mas sobre **Astro**  
-- 🎯 Buscando colaborar en proyectos interesantes  
+#### 🗄 Base de Datos  
+- PostgreSQL  
+- SQLite  
+- MongoDB  
 
----
-
-## 📈 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Mendoza&theme=tokyonight" />
-</div>
-
----
-
-## 🛠️ Tecnologías y Herramientas  
-### Backend  
-<div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### Frontend  
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+### 📫 Conéctate conmigo  
+- 🌎 [Mi página web](https://github.com/Manuel-Mendoza)  
+- 📧 [Correo](mailto:tuemail@example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/manuel-mendoza)  
 
 ---
 
-## 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://TU_PORTFOLIO.com)  
+¡Siéntete libre de modificarlo y personalizarlo a tu gusto! Si quieres agregar imágenes, gráficos adicionales o animaciones, dime y lo ajustamos. 🚀
