@@ -21,7 +21,6 @@
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuel-Mendoza&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Mendoza&theme=tokyonight" />
 </div>
 
