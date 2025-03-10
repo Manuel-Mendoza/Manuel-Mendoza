@@ -1,4 +1,4 @@
-<h1 align="center">I'm, soy Manuel 👋</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="50">I'm, soy Manuel 👋</h1>
  
 ---
 
