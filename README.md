@@ -1,3 +1,4 @@
+![snake gif](https://github.com/Manuel-Menoza/blob/output/github-contribution-grid-snake.svg)
 # ¡Hola! 👋 Soy [Manuel]
 
 🔹 Desarrollador Web | 🚀 Apasionado por la tecnología | 💡 Siempre aprendiendo  
