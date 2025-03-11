@@ -1,7 +1,5 @@
 <h1 align="center">🚀 I'm, soy Manuel 👋</h1>
 <div style='display:flex'>
-<img src='https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif' width='100px' /><h1>WELCOME</h1><img src='https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif' width='100px' />
-<div>
  
 ---
 
@@ -32,3 +30,5 @@
 <img src='https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2NTQyNTgsIm5iZiI6MTc0MTY1Mzk1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDAwNDU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwYzcxNDVhYWY2MTg5OTgyY2E2OTUyZGY4MzI3MzI3YTkyMjAzMDcyNzE2YzhiZTZlZTU3MDlkZWE2MTIyMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UvNeM_HF0kuElaj6RxFs7oKccXbfXnIB92QdQEmIDz0' width='50px'/>
 <img src='https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif' width='50px'/>
 </div>
+
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'width='100px'/>
