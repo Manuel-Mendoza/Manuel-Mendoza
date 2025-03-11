@@ -1,35 +1,56 @@
-<h1 align="center"> Hey, I'm, soy Manuel 👋</h1>
- 
+# ¡Hola! 👋 Bienvenido a mi perfil
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+</div>
+
+## Sobre mí ✨
+
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y elegantes. Me especializo en desarrollo web full-stack, con experiencia tanto en backend como en frontend.
+
+## Mi Stack Tecnológico 🚀
+
+### Backend 💻
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend 🎨
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Herramientas y Lenguajes 🛠️
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Estadísticas de GitHub 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical" alt="GitHub Streak" />
+</div>
+
+## Contáctame 📫
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_PERFIL_TWITTER)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://TU_SITIO_WEB)
+
+</div>
+
 ---
-<!-- Contenedor -->
-<div style='display:flex'>
-## 🛠️ Technologies and Tools  
 
-### Backend  
-<div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=blueviolet" alt="Profile views" />
+  <p>¡Gracias por visitar mi perfil! 😊</p>
 </div>
-
-### Frontend  
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
----
-<div style='display:flex justific-content:space-around'>
-<img src='https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif' width='50px'/>
-<img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width='50px'/>
-<img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width='50px'/>
-<img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' width='50px'/>
-<img src='https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2NTQyNTgsIm5iZiI6MTc0MTY1Mzk1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDAwNDU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwYzcxNDVhYWY2MTg5OTgyY2E2OTUyZGY4MzI3MzI3YTkyMjAzMDcyNzE2YzhiZTZlZTU3MDlkZWE2MTIyMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UvNeM_HF0kuElaj6RxFs7oKccXbfXnIB92QdQEmIDz0' width='50px'/>
-<img src='https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif' width='50px'/>
-</div>
-
-<img src='https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif' />
-<div>
