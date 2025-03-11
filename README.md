@@ -1,5 +1,4 @@
 <h1 align="center"> Hey, I'm, soy Manuel 👋</h1>
-<div style='display:flex'>
  
 ---
 <!-- Contenedor -->
