@@ -25,6 +25,4 @@
 ### 📫 Conéctate conmigo  
 - 🌎 [Mi página web](https://github.com/Manuel-Mendoza)  
 - 📧 [Correo](mailto:developermanuel@icloud.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/manuel-mendoza)  
-
 ---
