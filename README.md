@@ -31,19 +31,19 @@ I'm a passionate developer focused on creating efficient and elegant technologic
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Mendoza&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Mendoza&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ## Contact Me 📫
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_PROFILE)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) -->
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itjosemendoza)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://YOUR_WEBSITE)
 
 </div>
@@ -51,6 +51,6 @@ I'm a passionate developer focused on creating efficient and elegant technologic
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&color=blueviolet" alt="Profile views" />
   <p>Thanks for visiting my profile! 😊</p>
 </div>
