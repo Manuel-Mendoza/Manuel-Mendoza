@@ -1,76 +1,323 @@
-# Hello there! 👋 Welcome to my profile
+import React, { useState } from "react";
+import Input from "./Maquetado/Input";
+import Button from "./Maquetado/Button";
+import { useApiContext } from "../context/ApiContext";
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
-</div>
+export default function CrearOrden() {
+  const fechaActual = new Date();
+  const fechaFormateada = fechaActual.toISOString().split("T")[0]; // Formato YYYY-MM-DD
+  const { createOrden } = useApiContext();
+  const [medidas, setMedidas] = useState({
+    cara: "",
+    cara_inches: "",
+    cuerpo: "",
+    cuerpo_inches: "",
+    largo: "",
+    otra: "",
+  });
+  const [otra, setOtra] = useState(0);
+  const [nombre, setNombre] = useState("");
+  const [cantidad, setCantidad] = useState("");
+  const [numeroOrden, setNumeroOrden] = useState("");
+  const [tipo, setTipo] = useState("");
+  const [cu, setCu] = useState(0);
+  const [vigas, setVigas] = useState([]);
+  const [date, setDate] = useState(fechaFormateada);
 
-## About Me ✨
+  const agregarViga = () => {
+    // Verificar si tenemos los datos necesarios
+    if (!nombre || !cantidad) {
+      alert("Por favor ingresa nombre y cantidad");
+      return;
+    }
 
-I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in full-stack web development, with experience in both backend and frontend.
+    // Crear la cadena de medidas según el modo seleccionado
+    let medidaString = "";
+    if (otra === 0) {
+      // Verificar que tenemos todas las medidas necesarias
+      if (!medidas.cara || !medidas.cuerpo || !medidas.largo) {
+        alert("Por favor completa todas las medidas");
+        return;
+      }
+      medidaString = `${medidas.cara} ${medidas.cara_inches} x ${medidas.cuerpo} ${medidas.cuerpo_inches} x ${medidas.largo}`;
+    } else {
+      // Verificar que tenemos la medida alternativa
+      if (!medidas.otra) {
+        alert("Por favor ingresa la medida");
+        return;
+      }
+      medidaString = medidas.otra;
+    }
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <div>
-    <h2>My Tech Stack 🚀</h2>
-    
-    <h3>Backend 💻</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </p>
-    
-    <h3>Frontend 🎨</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-      <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </p>
-  </div>
-  
-  <div>
-    <h2>Tools & Languages 🛠️</h2>
-    <p>
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </p>
-    
-    <h2>Contact Me 📫</h2>
-    <p>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://twitter.com/YOUR_TWITTER_PROFILE">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-      <a href="https://YOUR_WEBSITE">
-        <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-      </a>
-    </p>
-  </div>
-</div>
+    // Crear la nueva viga y agregarla al array
+    const nuevaViga = {
+      nombre,
+      cantidad,
+      medidas: medidaString,
+      cu,
+      tipo,
+    };
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" width="100%" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak" width="100%" />
-  </div>
-</div>
+    setVigas([...vigas, nuevaViga]);
+    console.log("Nueva Viga:", nuevaViga);
 
-<div style="display: grid; grid-template-columns: 1fr; margin-top: 30px;">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Top Languages" />
-  </div>
-</div>
+    // Limpiar los campos después de agregar
+    setNombre("");
+    setCantidad("");
+    setTipo("");
+    setCu(0);
+    setMedidas({
+      cara: "",
+      cara_inches: "",
+      cuerpo: "",
+      cuerpo_inches: "",
+      largo: "",
+      cu: 0,
+      tipo: "",
+      otra: "",
+    });
+  };
 
----
+  const enviarOrden = () => {
+    if (vigas.length === 0) {
+      alert("Agrega al menos una viga antes de crear la orden");
+      return;
+    }
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
-  <p>Thanks for visiting my profile! 😊</p>
-</div>
+    if (!numeroOrden) {
+      alert("Por favor ingresa un número de orden");
+      return;
+    }
+
+    console.log("Orden Creada:", { date, numeroOrden, vigas });
+    createOrden({ date, numeroOrden, vigas });
+    alert("Orden enviada");
+    setNumeroOrden("");
+    setVigas([]);
+  };
+
+  return (
+    <div
+      id="formCreateOrden"
+      className="p-6 bg-white shadow-md rounded-lg grid justify-center justify-items-center"
+    >
+      <h2 className="text-xl font-bold mb-4 grid text-center">
+        Crear Nueva Orden
+      </h2>
+      <div className="flex justify-around w-full">
+        {/* Input de Fecha */}
+        <Input
+          placeholder="Fecha"
+          type="date"
+          style={"text-center"}
+          value={date}
+          onChange={(e) => setDate(e.target.value)}
+        />
+
+        {/* Input de Número de Orden */}
+        <Input
+          onChange={(e) => setNumeroOrden(e.target.value)}
+          placeholder="Número de Orden"
+          type="number"
+          style={"text-center"}
+          inputmode={"numeric"}
+          value={numeroOrden}
+        />
+      </div>
+
+      {/* Agregar Vigas */}
+      <div className="mb-4 min-md:grid justify-items-center grid-cols-5 gap-1">
+        <h3 className="text-lg font-semibold col-span-5 text-center">
+          Agregar Viga
+        </h3>
+        <div className="col-span-full">
+          <Input
+            placeholder="Nombre de la Viga"
+            type="text"
+            style={"text-center uppercase mb-3"}
+            onChange={(e) => setNombre(e.target.value)}
+            value={nombre}
+          />
+          <Input
+            style={"mb-3 text-center"}
+            placeholder="Cantidad"
+            type="number"
+            inputmode={"numeric"}
+            onChange={(e) => setCantidad(e.target.value)}
+            value={cantidad}
+          />
+        </div>
+
+        {otra === 0 ? (
+          <>
+            <Input
+              style={"mb-3"}
+              type="number"
+              placeholder="Cara...(Pulgadas)"
+              inputmode="numeric"
+              onChange={(e) =>
+                setMedidas((pre) => ({ ...pre, cara: e.target.value }))
+              }
+              value={medidas.cara}
+            />
+            <form className="max-w-sm mx-auto">
+              <label htmlFor="cara_inches" className="sr-only">
+                Inches
+              </label>
+              <select
+                onChange={(e) =>
+                  setMedidas((pre) => ({ ...pre, cara_inches: e.target.value }))
+                }
+                id="cara_inches"
+                value={medidas.cara_inches}
+                className="block py-2.5 px-0 w-full text-sm text-gray-500 bg-transparent border-0 border-b-2 border-gray-200 appearance-none dark:text-gray-400 dark:border-gray-700 focus:outline-none focus:ring-0 focus:border-gray-200 peer"
+              >
+                <option value=" " defaultValue>
+                  Inches
+                </option>
+                <option value="1/8">1/8</option>
+                <option value="1/4">1/4</option>
+                <option value="3/8">3/8</option>
+                <option value="1/2">1/2</option>
+                <option value="5/8">5/8</option>
+                <option value="3/4">3/4</option>
+                <option value="7/8">7/8</option>
+              </select>
+            </form>
+
+            <Input
+              style={"mb-3"}
+              inputmode="numeric"
+              placeholder="Cuerpo..."
+              type="number"
+              onChange={(e) =>
+                setMedidas((pre) => ({ ...pre, cuerpo: e.target.value }))
+              }
+              value={medidas.cuerpo}
+            />
+
+            <form className="max-w-sm mx-auto">
+              <label htmlFor="cuerpo_inches" className="sr-only">
+                Inches
+              </label>
+              <select
+                id="cuerpo_inches"
+                value={medidas.cuerpo_inches}
+                className="block py-2.5 px-0 w-full text-sm text-gray-500 bg-transparent border-0 border-b-2 border-gray-200 appearance-none dark:text-gray-400 dark:border-gray-700 focus:outline-none focus:ring-0 focus:border-gray-200 peer"
+                onChange={(e) =>
+                  setMedidas((pre) => ({
+                    ...pre,
+                    cuerpo_inches: e.target.value,
+                  }))
+                }
+              >
+                <option value=" " defaultValue>
+                  Inches
+                </option>
+                <option value="1/8">1/8</option>
+                <option value="1/4">1/4</option>
+                <option value="3/8">3/8</option>
+                <option value="1/2">1/2</option>
+                <option value="5/8">5/8</option>
+                <option value="3/4">3/4</option>
+                <option value="7/8">7/8</option>
+              </select>
+            </form>
+
+            <Input
+              placeholder="Largo... (feet)"
+              style={"mb-3"}
+              type="number"
+              inputmode={"numeric"}
+              onChange={(e) =>
+                setMedidas((pre) => ({ ...pre, largo: e.target.value }))
+              }
+              value={medidas.largo}
+            />
+          </>
+        ) : (
+          <Input
+            onChange={(e) =>
+              setMedidas((pre) => ({ ...pre, otra: e.target.value }))
+            }
+            placeholder="medida... ejemplo: 3 1/2 x 11 7/8 x 60"
+            type={"text"}
+            style={"col-span-full"}
+            value={medidas.otra}
+          />
+        )}
+        <Input
+          value={cu}
+          placeholder={"c/u"}
+          type={"number"}
+          inputmode={"numeric"}
+          style={"col-span-2 text-center mb-3"}
+          onChange={(e) => setCu(e.target.value)}
+        />
+        <Input
+          value={tipo}
+          placeholder={"Tipo"}
+          type={"text"}
+          style={"col-span-2 col-start-4 text-center mb-3"}
+          onChange={(e) => setTipo(e.target.value)}
+        />
+        <br />
+        <div className="flex max-sm:flex-col col-span-full w-full justify-around">
+          <Button
+            name="Agregar Viga"
+            style={"mb-1"}
+            bg={"blue"}
+            click={agregarViga}
+          />
+
+          {otra === 1 ? (
+            <Button
+              bg={"gray"}
+              name={"⬅️"}
+              click={() => setOtra(0)}
+              style={"mb-1"}
+            />
+          ) : (
+            <Button
+              style={"mb-1"}
+              bg={"gray"}
+              name="Otras medidas"
+              click={() => setOtra(1)}
+            />
+          )}
+
+          {/* Botón para Enviar la Orden */}
+          <Button click={enviarOrden} name="Crear Orden" />
+        </div>
+        <hr />
+        {/* Lista de Vigas Agregadas */}
+        <table className="mb-4 col-span-full w-full">
+          <thead>
+            <tr className="p-2 border-b ">
+              <th className="text">Bms</th>
+              <th className="text">Qty</th>
+              <th className="text">Size</th>
+              <th className="text">Each</th>
+              <th className="text">DF/YC</th>
+            </tr>
+          </thead>
+          <tbody>
+            {vigas.map((viga, index) => (
+              <tr key={index} className="p-2 border-b text-center text-sm">
+                <td className="uppercase text-green-500 font-bold">
+                  {viga.nombre}
+                </td>
+                <td className="text">{viga.cantidad}</td>
+                <td className="text">({viga.medidas})</td>
+                <td className="text">
+                  {viga.cu === "0" ? "entera" : <p>{viga.cu}/bms</p>}
+                </td>
+                <td className="text uppercase">{viga.tipo}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
