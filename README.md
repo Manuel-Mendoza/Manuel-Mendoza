@@ -57,7 +57,7 @@ elegantes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me 
 
 Aquí tienes algunos de mis proyectos más interesantes:
 
-- **Proyecto 1** - Breve descripción del proyecto. [Ver código](https://dprojects.pages.dev/)
+- **Proyecto 1** - Breve descripción del proyecto. [Ir a web](https://dprojects.pages.dev/)
 - **Proyecto 2** - Breve descripción del proyecto. [Ver demo](enlace)
 - **Proyecto 3** - Breve descripción del proyecto. [Ver documentación](enlace)
 
