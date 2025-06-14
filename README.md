@@ -4,6 +4,10 @@
   <h1>¡Hola! 👋 Soy Manuel</h1>
   <h3>Desarrollador Full Stack | Apasionado por la tecnología</h3>
   
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views"/>
+  </div>
+  
   [![LinkedIn](https://img.shields.io/badge/-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
   [![Twitter](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tucuenta)
   [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://tusitio.com)
@@ -20,10 +24,6 @@
 - 👯 Busco colaborar en proyectos open source interesantes
 - 💬 Pregúntame sobre desarrollo web y programación en general
 - ⚡ Dato curioso: ¡Me encanta el café y la música electrónica! 🎧
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
 ---
 
