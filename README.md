@@ -2,33 +2,14 @@
 
 <div class="flex-container">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
-  # About Me ✨
+
+# About Me ✨
   <p>
     I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in
     full-stack web development, with experience in both backend and frontend.
   </p>
 </div>
 
-## Fruits
-
-Both types are highly popular, sweet, and grow on trees.
-
-### Apple
-
-*   [Juicy](http://SomeReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyLongURL)
-*   Firm
-
-Apples keep doctors away.
-
-### Banana
-
-*   [Convenient](http://cs/SomeDifferentReallyReallyReallyReallyReallyReallyReallyReallyLongQuery)
-*   Soft
-*   16 degrees average acute curvature.
-
-Contrary to popular belief, most apes prefer mangoes. Don't you?
-
-See the [design doc][banana_v2] for the newest hotness in bananiels.
 
 ## My Tech Stack 🚀
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
