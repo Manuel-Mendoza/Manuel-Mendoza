@@ -8,9 +8,9 @@
     <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views"/>
   </div>
   
-  [![LinkedIn](https://img.shields.io/badge/-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-  [![Twitter](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tucuenta)
-  [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://tusitio.com)
+  [![LinkedIn](https://img.shields.io/badge/-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mendoza-635914360/)
+  [![X](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itManuelMendoza)
+  [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel-Mendoza)
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 ¡Hola! Soy un apasionado desarrollador full-stack con experiencia en la creación de soluciones tecnológicas eficientes y elegantes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
 
-- 🔭 Actualmente trabajando en proyectos personales con React y FastAPI
+- 🔭 Actualmente trabajando como FRONTEND FREELANCE
 - 🌱 Aprendiendo sobre arquitectura de software y buenas prácticas
 - 👯 Busco colaborar en proyectos open source interesantes
 - 💬 Pregúntame sobre desarrollo web y programación en general
