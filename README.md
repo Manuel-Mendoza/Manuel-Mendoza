@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
   <div>
     ## About Me ✨
-    
+
     I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in full-stack web development, with experience in both backend and frontend.
-      </div>
+  </div>
 </div>
 
 
