@@ -2,30 +2,33 @@
 
 <div class="flex-container">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
-  <div>
-    # About Me ✨
-    <p>
-      I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in
-      full-stack web development, with experience in both backend and frontend.
-    </p>
-  </div>
+  # About Me ✨
+  <p>
+    I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in
+    full-stack web development, with experience in both backend and frontend.
+  </p>
 </div>
 
-<section markdown="1" style="display: flex;">
+## Fruits
 
-  <div class="my-block" markdown="1">
-    ## Is your company, department or team..."
+Both types are highly popular, sweet, and grow on trees.
 
-    * Waiting for solutions ?
-  </div>
+### Apple
 
-  <div class="my-block" markdown="1">
-    ## Tip "How to be more effective "
+*   [Juicy](http://SomeReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyReallyLongURL)
+*   Firm
 
-    * You could do this and that
-  </div>
+Apples keep doctors away.
 
-</section>
+### Banana
+
+*   [Convenient](http://cs/SomeDifferentReallyReallyReallyReallyReallyReallyReallyReallyLongQuery)
+*   Soft
+*   16 degrees average acute curvature.
+
+Contrary to popular belief, most apes prefer mangoes. Don't you?
+
+See the [design doc][banana_v2] for the newest hotness in bananiels.
 
 ## My Tech Stack 🚀
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
