@@ -1,16 +1,15 @@
 # Hey! 👋 I'm Manuel, Welcome!!
 
-<div style="display: flex;flex-direction: row;">
+<div class="flex-container">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
   <div>
-    ## About Me ✨
+    # About Me ✨
     <p>
       I'm a passionate developer focused on creating efficient and elegant technological solutions. I specialize in
       full-stack web development, with experience in both backend and frontend.
     </p>
   </div>
 </div>
-
 
 
 ## My Tech Stack 🚀
@@ -26,3 +25,16 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+<style>
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .flex-container>div {
+    margin: 10px;
+    padding: 20px;
+  }
+</style>
