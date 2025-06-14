@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
-  
+
   <h1>¡Hola! 👋 Soy Manuel</h1>
-  <h3>Desarrollador Full Stack | Apasionado por la tecnología</h3>
-  
+  <h3>Desarrollador Frontend | Apasionado por lo moderno</h3>
+
   <div>
-    <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views" />
   </div>
-  
+
   [![LinkedIn](https://img.shields.io/badge/-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mendoza-635914360/)
   [![X](https://img.shields.io/badge/Sígueme-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itManuelMendoza)
   [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel-Mendoza)
@@ -17,7 +17,8 @@
 
 ## 🚀 Sobre Mí
 
-¡Hola! Soy un apasionado desarrollador full-stack con experiencia en la creación de soluciones tecnológicas eficientes y elegantes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
+¡Hola! Soy un apasionado desarrollador Frontend con experiencia en la creación de soluciones tecnológicas eficientes y
+elegantes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
 
 - 🔭 Actualmente trabajando como FRONTEND FREELANCE
 - 🌱 Aprendiendo sobre arquitectura de software y buenas prácticas
@@ -52,24 +53,11 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical" alt="GitHub Streak">
-</div>
-
----
-
 ## 🌟 Proyectos Destacados
 
 Aquí tienes algunos de mis proyectos más interesantes:
 
-- **Proyecto 1** - Breve descripción del proyecto. [Ver código](enlace)
+- **Proyecto 1** - Breve descripción del proyecto. [Ver código](https://dprojects.pages.dev/)
 - **Proyecto 2** - Breve descripción del proyecto. [Ver demo](enlace)
 - **Proyecto 3** - Breve descripción del proyecto. [Ver documentación](enlace)
 
@@ -78,12 +66,12 @@ Aquí tienes algunos de mis proyectos más interesantes:
 <div align="center">
   <h3>¡Conéctate conmigo! 🤝</h3>
   <p>¿Tienes una idea genial o quieres colaborar en algún proyecto? ¡Me encantaría saber de ti!</p>
-  
+
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tucuenta)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-  
+
   <p>¡Gracias por visitar mi perfil! 😊</p>
-  
+
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="GIF de despedida">
 </div>
