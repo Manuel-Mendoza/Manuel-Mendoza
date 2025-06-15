@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 
   <h1>¡Hola! 👋 Soy Manuel</h1>
-  <h3>Desarrollador Frontend | Apasionado por lo moderno</h3>
+#Desarrollador Frontend | Apasionado por lo moderno✨
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=Manuel-Mendoza&style=for-the-badge&color=blue" alt="Profile views" />
@@ -13,18 +13,6 @@
   [![GitHub](https://img.shields.io/badge/Visita_mi_portafolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel-Mendoza)
 </div>
 
----
-
-## 🚀 Sobre Mí
-
-¡Hola! Soy un apasionado desarrollador Frontend con experiencia en la creación de soluciones tecnológicas eficientes y
-elegantes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
-
-- 🔭 Actualmente trabajando como FRONTEND FREELANCE
-- 🌱 Aprendiendo sobre arquitectura de software y buenas prácticas
-- 👯 Busco colaborar en proyectos open source interesantes
-- 💬 Pregúntame sobre desarrollo web y programación en general
-- ⚡ Dato curioso: ¡Me encanta el café y la música electrónica! 🎧
 
 ---
 
