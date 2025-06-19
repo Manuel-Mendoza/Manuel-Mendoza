@@ -44,8 +44,8 @@
 
 Aquí tienes algunos de mis proyectos más interesantes:
 
-- **Proyecto 1** - Breve descripción del proyecto. [Ir a web](https://dprojects.pages.dev/)
-- **Proyecto 2** - Breve descripción del proyecto. [Ver demo](enlace)
+- **Dproject Web** -  [Ir a web](https://dprojects.pages.dev/)
+- **Saas Web** -  [Ver web](https://app.dogalyir.com/login)
 - **Proyecto 3** - Breve descripción del proyecto. [Ver documentación](enlace)
 
 ---
