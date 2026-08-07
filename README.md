@@ -6,7 +6,6 @@
 
 ### 🚀 Desarrollador Fullstack | CEO en Mandao Delivery
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/manuel-mendoza-635914360)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/itManuelMendoza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Manuel-Mendoza)
 
@@ -95,7 +94,6 @@ Desarrollador apasionado por crear soluciones web modernas y escalables. Actualm
 ### 📫 ¿Colaboramos?
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frontenddesing.manuel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-mendoza-635914360)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itJoseMendoza)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="GIF de despedida">
