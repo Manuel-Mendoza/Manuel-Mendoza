@@ -42,11 +42,10 @@
 
 ## 🌟 Proyectos Destacados
 
-Aquí tienes algunos de mis proyectos más interesantes:
-
-- **Dproject Web** -  [Ir a web](https://dprojects.pages.dev/)
-- **Saas Web** -  [Ver web](https://app.dogalyir.com/login)
-- **Proyecto 3** - Breve descripción del proyecto. [Ver documentación](enlace)
+- **WanaSport** - Desarrollador [Ir a web](https://wanasport.lat)
+- **San Mariela** - Desarrollador [Ir a web](https://san-mariela.joseguns2.workers.dev/login)
+- **Círculo de Inversión** - Desarrollador [Ir a web](https://circulo-de-inversion-joseguns2.joseguns2.workers.dev/)
+- **Mandao Delivery** - CEO y Desarrollador [Ir a web](https://mandao.delivery/)
 
 ---
 
